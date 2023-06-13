@@ -1,6 +1,4 @@
-# image_captioning
-
-Generating Image Captions Using Machine Learning Algorithms
+# Generating Image Captions Using Machine Learning Algorithms
 
 The system implemented in this project is designed to generate captions for any uploaded image by utilizing powerful machine learning algorithms. Through the application of these algorithms, the system can analyze and comprehend the content of the image, providing accurate and descriptive captions that enhance the understanding and interpretation of visual data.
 
